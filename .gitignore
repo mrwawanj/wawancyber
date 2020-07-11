@@ -1,18 +1,29 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+@@ -36,9 +36,8 @@ def loadLst(fileName, lstName):
+    print 'Examples: python2 Wpbf.py -h http://xnxx.com/wp-login.php -u admin -P password.txt'
+    sys.exit()
 
-# Other files and folders
-.settings/
+print 'Wp Brute Force By Mr.Z'
+print 'Website: http://zildan.cf'
+print 'youtube: info cyber hacker'
+print 'Wp Brute Force By Mr.W3W3N'
+print 'youtube: wawancyber'
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#
+#define variables
+Propose changes
+Commit summary 
+Update wpbf.py
+Optional extended description
+Add an optional extended description…
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
