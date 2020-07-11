@@ -16,9 +16,8 @@ def loadLst(fileName, lstName):
     f.close()
 
 if len(sys.argv) <= 1:
-    print 'WP Brute Force by Mr.Z'
-    print 'Website: http://zildan.cf'
-    print 'Youtube: Info Cyber Hacker'
+    print 'WP Brute Force by Mr.W3w3n'
+    print 'Youtube: wawancyber'
     print ''
     print 'Syntax: python2 Wpbf.py [-u USER|-U FILE] [-p PASS|-P FILE] -h URL [OPT]'
     print ''
